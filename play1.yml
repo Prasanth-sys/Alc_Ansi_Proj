@@ -10,6 +10,6 @@
        name: blc-user
        password: $6$kdlafklakdj$jVBXr3pp3MyLrgxpTrdJJyGg6oiHyEKOA/Hk0XktvUZJExw6upj736L0Zgk6aLCJdH7yVtYTQVF/boZqubKNG/
        gecos: "This is service account for sap Admin"
-       state: present
-       #state: absent
+       #state: present
+       state: absent
 ...     
